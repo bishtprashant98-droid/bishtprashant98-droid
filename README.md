@@ -1,7 +1,7 @@
 # Hi, I'm Prashant Bisht 👋
 
 ## About Me
-Aspiring Data Analyst with skills in SQL, Excel, Power BI, and Python.
+Aspiring Data Analyst with skills in SQL, Excel and Power BI.
 
 🎓 B.Com Graduate
 
