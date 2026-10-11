@@ -18,7 +18,7 @@ Aspiring Data Analyst with skills in SQL, Excel and Power BI.
 ### HR Employee Attrition Analysis
 Analyzed employee attrition patterns and identified key factors affecting employee turnover.
 
-### E-Commerce Customer & Sales Performance Analysis"
+### E-Commerce Customer & Sales Performance Analysis
 End-to-end analysis of a Blinkit-style quick-commerce dataset using SQL, Python, and Power BI, uncovering customer, sales, and delivery performance insights.
 
 ### Sales Analysis Dashboard
