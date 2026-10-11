@@ -6,9 +6,10 @@ Aspiring Data Analyst with skills in SQL, Excel and Power BI.
 🎓 B.Com Graduate
 
 ## Skills
-- SQL
 - Excel
+- SQL
 - Power BI
+- Python
 - Data Cleaning
 - Data Visualization
 
@@ -16,6 +17,9 @@ Aspiring Data Analyst with skills in SQL, Excel and Power BI.
 
 ### HR Employee Attrition Analysis
 Analyzed employee attrition patterns and identified key factors affecting employee turnover.
+
+### E-Commerce Customer & Sales Performance Analysis"
+End-to-end analysis of a Blinkit-style quick-commerce dataset using SQL, Python, and Power BI, uncovering customer, sales, and delivery performance insights.
 
 ### Sales Analysis Dashboard
 Built an interactive Power BI dashboard to analyze sales trends and business performance.
